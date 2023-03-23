@@ -1,0 +1,18 @@
+.footer {
+    width: 100%;
+    object-fit: contain;
+}
+
+.footer-text {
+    text-align: center;
+    padding: 10px;
+    background: #37475a;
+    color: white;
+    font-size: 13px;
+}
+
+.foot{
+    margin-right: 20px;
+}
+
+
