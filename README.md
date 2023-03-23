@@ -1,6 +1,6 @@
 # Amazon clone
 
-<img src="https://storage.googleapis.com/crio-content-container-assets/ME_ME_PROJECT_AMAZON_CLONE_REACT_MODULE_ME_PROJECT_AMAZON_CLONE_REACT_MODULE_AMAZON_CLONE_REACT_5_sample_amazon_screenshot_1.png">
+<img src="https://i.ibb.co/mvNB4fv/amazon-clone-img.png">
 
 > This project is Amazon clone build with React and Firebase.
 
