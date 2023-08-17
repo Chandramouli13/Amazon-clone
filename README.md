@@ -4,7 +4,7 @@
 
 > This project is Amazon clone build with React and Firebase.
 
-> Hosted with firebase https://clone-93a03.web.app/
+> Hosted with firebase
 
 > Note :
 > src folder is the Front-end (app)
